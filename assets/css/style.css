@@ -1,0 +1,70 @@
+.container{
+    background-color: rgb(244, 244, 244);
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Work Sans', sans-serif;
+    position: absolute;
+    padding: 3%;
+    left: 23%;
+    right: 23%;
+    margin-right: 56px;
+    
+  }
+  h4{
+    background-color: aqua;
+
+  }
+  .font-colour{
+    color: blue;
+  }
+  .imgposition
+{
+    height: 210px;
+    width: 150px;
+    right: 50%;
+    float: left;
+    margin-right: 14px;
+    border-radius: 6%;
+}
+h3{
+
+    font-family: 'PT Serif', serif;
+font-family: 'Roboto Slab', serif;
+  }
+table,td{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+}
+thead,td{
+    padding: 17px;
+
+}
+thead{
+    background-color: rgb(226, 237, 237);
+    font-style: bold;
+}
+tbody :hover{
+    background-color: rgba(245, 245, 245, 0.822);
+}
+tr{
+    font-style: bold;
+}
+.declaration{
+    text-align: right;
+    margin-right: 15%;
+    font-size: 20px;
+}
+*{
+    padding: 0%;
+    border: 0%;
+}
+.project{
+    background-color: rgb(255, 255, 255);
+    height: 12PX;
+    font-weight: 12PX;
+}
+h5{
+    font-size: large;
+}
